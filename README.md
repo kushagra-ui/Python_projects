@@ -36,6 +36,7 @@ python-projects
 │   ├── number_guessing_game
 │   ├── rock_paper_scissors
 │   ├── madlibs_generator
+
 │
 ├── intermediate
 │   ├── password_manager
@@ -43,7 +44,9 @@ python-projects
 │   ├── turtle_race_game
 │   ├── typing_speed_test
 │
+
 ├── advanced
+
 │   ├── youtube_downloader
 │   ├── currency_converter
 │   ├── aim_trainer
